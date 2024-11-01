@@ -1,0 +1,1 @@
+<a href="<?= $href ?>" class="thickbox button insert-ygvideo add_ygvideo" title="YGVideo wizard - For easier embedding"><span class="icon-play2"></span>YGVideo</a>
